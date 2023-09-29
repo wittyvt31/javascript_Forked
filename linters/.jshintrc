@@ -3,6 +3,8 @@
    * ENVIRONMENTS
    * =================
    */
+   /*hey"
+   */
 
   // Define globals exposed by modern browsers.
   "browser": true,
